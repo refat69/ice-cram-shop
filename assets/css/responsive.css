@@ -1,0 +1,75 @@
+@media (max-width: 786px) {
+  .nav-main {
+    width: 100%;
+  }
+  .header {
+    width: 30%;
+  }
+
+  .content {
+    width: 28.7%;
+  }
+  .grid {
+    left: -60px;
+  }
+  .result-header {
+    width: 21%;
+  }
+  .result-header h1 {
+    font-size: 20px;
+    font-weight: 880;
+  }
+  .result-main {
+    display: block;
+  }
+  .result-img {
+    margin-left: -25px;
+  }
+  .result-text {
+    padding-top: 0;
+  }
+  .seabu-header h1 {
+    font-size: 72px;
+  }
+  .seabu-main-img img {
+    left: -32px;
+    top: -41px;
+    width: 50%;
+  }
+  .seabu {
+    width: 39%;
+  }
+  #icecream-lover h1 {
+    padding-left: 0;
+    font-size: 32px;
+  }
+  #icecream-lover img {
+    top: -22px;
+    left: 164px;
+    width: 220px;
+  }
+  .icecream-main {
+    display: block;
+    padding-top: 55px;
+    padding-left: 40px;
+  }
+  .icecram-lover-box-two {
+    position: relative;
+    top: -137px;
+    left: 39px;
+  }
+  .footer-main {
+    display: block;
+    text-align: center;
+  }
+  .footer-main {
+    display: block;
+    text-align: center;
+    max-width: 600px;
+    min-width: 400px;
+  }
+  .footer-main img {
+    top: -284px;
+    left: -139px;
+  }
+}

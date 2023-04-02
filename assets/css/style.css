@@ -199,6 +199,7 @@ nav a:first-child {
     rgba(17, 59, 81, 0) 50%
   );
   opacity: 0.2;
+
 }
 .item-holder::before {
   transform: translate(-10%, 10%);
